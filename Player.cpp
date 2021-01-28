@@ -1,10 +1,12 @@
-#include <iostream>
 #include "Player.h"
+#include <iostream>
 
 using namespace std;
 
-int main()
-{
-    Player Hero();
-    return 0;
+Player::Player(){
+
+}
+
+void Player::CallInput(){
+    cout << "Aqui llamaria los inputs" << endl;
 }

@@ -5,7 +5,7 @@ class Player
 {
 public:
     Player();
-    
+    void CallInput();
 
 protected:
 
