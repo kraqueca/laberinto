@@ -30,5 +30,6 @@ void GameMap::SetPlayerCell(int PlayerX, int PlayerY){
 }
 
 void GameMap::LoadMapFromFile(){
-
+    string line;
+    ifstream 
 }
